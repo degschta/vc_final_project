@@ -1,12 +1,12 @@
 #PS Visual Computing - WS 21/22 - Final project
 
-Link to GitHub repository: https://github.com/degschta/vc_final_project\\
-Link to presentation video: https://www.youtube.com/watch?v=btaxieW6hBY
+##Link to GitHub repository: https://github.com/degschta/vc_final_project
+##Link to presentation video: https://www.youtube.com/watch?v=btaxieW6hBY
 
 #Group members
-Lukas Lechner
-Claudio Nardin
-Lukas Lechner
+##Lukas Lechner
+##Claudio Nardin
+##Lukas Lechner
 
 #Instructions
 The project can be run on Google Colab (vc_smile_detection_project_colab_version.ipynb). 
