@@ -1,6 +1,6 @@
 #PS Visual Computing - WS 21/22 - Final project
 
-Link to GitHub repository: https://github.com/degschta/vc_final_project
+Link to GitHub repository: https://github.com/degschta/vc_final_project\\
 Link to presentation video: https://www.youtube.com/watch?v=btaxieW6hBY
 
 #Group members
