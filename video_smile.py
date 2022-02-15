@@ -2,11 +2,6 @@ import cv2
 import csv
 from os import listdir
 
-true_positives = 0
-true_negatives = 0
-false_positives = 0
-false_negatives = 0
-
 #select number of cascades
 TRIAL_NUM = 3
 
