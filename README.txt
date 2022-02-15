@@ -3,6 +3,8 @@
 Link to GitHub repository: https://github.com/degschta/vc_final_project
 Link to presentation video: https://www.youtube.com/watch?v=btaxieW6hBY
 
+The project report resides in the root folder (Report__VC_Final_Project___Egger___Nardin___Lechner.pdf).
+
 #Group members
 Lukas Lechner
 Claudio Nardin
