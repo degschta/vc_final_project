@@ -6,7 +6,7 @@
 #Group members
 ##Lukas Lechner
 ##Claudio Nardin
-##Lukas Lechner
+##Dominic Egger
 
 #Instructions
 The project can be run on Google Colab (vc_smile_detection_project_colab_version.ipynb). 
